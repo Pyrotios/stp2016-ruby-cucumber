@@ -1,7 +1,7 @@
 @stp
 Feature: Order Online
 
-brief description
+New Description
 
 Scenario: Delivery Address
 Given I have entered a valid address
